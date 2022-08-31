@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @amyeguo
+# 👋 Hi, I’m Amy,
 ## I'm a 4th-year undergraduate CS Student @ Northwestern University
 I'm interested in sustainable computing + human-computer interaction, and am a member of the [Ka Moamoa Lab](http://kamoamoa.eecs.northwestern.edu/) and Delta Lab in the [Design, Technology, Research program](https://dtr.northwestern.edu/).
 
